@@ -1,6 +1,6 @@
 # Tzu Chin, Tseng 曾子謹
-Currently studying at National Taiwan University.
-Interested in system software and low-level computing.
+Currently studying at National Taiwan University.\
+Interested in system software and low-level computing.\
 Actively looking for an internship.
 
 ## Course I took

@@ -1,5 +1,5 @@
 # Tzu Chin, Tseng 曾子謹
-[Linkedin](www.linkedin.com/in/tzu-chin-tseng-t0matootk)\
+[Linkedin](https://www.linkedin.com/in/tzu-chin-tseng-t0matootk/)\
 Currently studying at National Taiwan University.\
 Interested in system software and low-level computing.\
 Actively looking for an internship.
